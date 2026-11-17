@@ -1,0 +1,2187 @@
+{
+  "activeQuarter": "پاییز ۱۴۰۵ (Q4 2026)",
+  "vto": {
+    "companyName": "پترو رها گستر صنایع جنوبگان",
+    "coreValues": [
+      {
+        "id": "cv-1",
+        "title": "مالکیت مطلق (Extreme Ownership)",
+        "description": "بدون بهانه‌تراشی مسئولیت کامل نتایج، خطاها و راه‌حل‌ها را می‌پذیریم.",
+        "speechExample": "در بحران قطعی سرور آبان‌ماه، مهندس زیرساخت بدون مقصر دانستن تیم دیگر تا ساعت ۳ بامداد مسئله را ریشه‌ای حل کرد."
+      },
+      {
+        "id": "cv-2",
+        "title": "شفافیت و صداقت سازنده",
+        "description": "حقیقت را محترمانه، مستقیم و بدون سیاست‌بازی در جلسه بیان می‌کنیم (Enter the Danger).",
+        "speechExample": "در جلسه L10 گذشته، مدیر فروش کاهش نرخ تبدیل را صریحاً روی میز گذاشت تا با هم حل کنیم."
+      },
+      {
+        "id": "cv-3",
+        "title": "ساده‌سازی و انضباط عملیاتی",
+        "description": "راه‌حل‌های پیچیده را به فرآیندهای شفاف و تکرارپذیر تبدیل می‌کنیم.",
+        "speechExample": "تبدیل فرآیند ۲۴ مرحله‌ای آنبوردینگ مشتری به چک‌لیست ۵ گامی استاندارد که زمان استقرار را نصف کرد."
+      },
+      {
+        "id": "cv-4",
+        "title": "تکامل مستمر (Grow or Die)",
+        "description": "هر هفته ۵٪ بهتر از هفته قبل می‌شویم و با کنجکاوی یاد می‌گیریم.",
+        "speechExample": "برگزاری جلسات هفتگی تبادل تجربه فنی و بازبینی بدون تعارف عملکرد."
+      },
+      {
+        "id": "cv-5",
+        "title": "خیر اعظم تیم (Greater Good)",
+        "description": "منافع بلندمدت کل شرکت را بر منافع فردی یا دپارتمانی ترجیح می‌دهیم.",
+        "speechExample": "تیم محصول دو اسپرینت خود را صرف رفع گلوگاه تیم پشتیبانی مشتریان کرد."
+      }
+    ],
+    "coreFocus": {
+      "purpose": "آزادسازی کارآفرینان و مدیران از آشفتگی عملیاتی تا کسب‌وکارشان به جای وابستگی به افراد، روی سیستم حرکت کند.",
+      "niche": "طراحی و استقرار نرم‌افزارهای یکپارچه اتوماسیون زنجیره تأمین و عملیات B2B برای شرکت‌های تولیدی و پخش متوسط."
+    },
+    "tenYearTarget": {
+      "statement": "تبدیل شدن به پلتفرم مرجع مدیریت عملیات برای ۱,۵۰۰ بنگاه صنعتی و پخش در منطقه با درآمد سالانه ۱۲۰۰ میلیارد تومان.",
+      "metricLabel": "۱,۵۰۰ شرکت فعال · ۱۲۰۰ میلیارد تومان درآمد سالانه",
+      "targetYear": "۱۴۱۵ (2036)"
+    },
+    "marketingStrategy": {
+      "demographics": "شرکت‌های تولیدی، پخش مویرگی و صنعتی با ۵۰ تا ۵۰۰ نفر پرسنل و درآمد سالانه بین ۵۰ تا ۵۰۰ میلیارد تومان.",
+      "psychographics": "بنیان‌گذاران عمل‌گرا که از گزارش‌های جزیره‌ای اکسل خسته شده‌اند و به دنبال شفافیت، کنترل عددی و مقیاس‌پذیری هستند.",
+      "geographic": "ایران (تهران، اصفهان، مشهد، تبریز) و بازارهای صادراتی همسایه.",
+      "threeUniques": [
+        "استقرار تضمینی در ۴۵ روز کاری بدون توقف خط عملیات",
+        "اتصال مستقیم داده‌های کف کارخانه به داشبورد لحظه‌ای مدیرعامل",
+        "پشتیبانی مهندسی مقیم با SLA زیر ۱۵ دقیقه در روزهای کاری"
+      ],
+      "provenProcessName": "مسیر اثبات‌شده رایا (The Raya Way)",
+      "provenProcessSteps": [
+        {
+          "id": "pp-1",
+          "stepNumber": 1,
+          "title": "۱. عارضه‌یابی و نقشه جریان (Discovery)",
+          "description": "ممیزی ۳ روزه گلوگاه‌های داده و فرآیندهای کلیدی سازمان."
+        },
+        {
+          "id": "pp-2",
+          "stepNumber": 2,
+          "title": "۲. معماری چابک (Blueprint)",
+          "description": "طراحی داشبوردهای پیش‌رو و یکپارچه‌سازی با ERP و فروش."
+        },
+        {
+          "id": "pp-3",
+          "stepNumber": 3,
+          "title": "۳. استقرار ۴۵ روزه (45-Day Launch)",
+          "description": "راه‌اندازی عملیاتی، آموزش تیم‌ها و پایش همگانی."
+        },
+        {
+          "id": "pp-4",
+          "stepNumber": 4,
+          "title": "۴. بهینه‌سازی فصلی (Quarterly Tune-up)",
+          "description": "بازبینی ۹۰ روزه شاخص‌ها و ارتقای مداوم بهره‌وری."
+        }
+      ],
+      "guarantee": "اگر سیستم ظرف ۴۵ روز به بهره‌برداری عملیاتی نرسد، هزینه استقرار به‌طور کامل بازگردانده می‌شود و تا زمان تحویل کامل پشتیبانی رایگان ارائه می‌گردد."
+    },
+    "threeYearPicture": {
+      "futureDate": "پاییز ۱۴۰۸ (2029)",
+      "revenue": "۲۴۰ میلیارد تومان",
+      "profit": "۴۸ میلیارد تومان (۲۰٪ خالص)",
+      "measurables": "۳۲۰ مشتری فعال سازمانی · نرخ ماندگاری ۹۶٪ · NPS بالای ۶۵",
+      "looksLike": [
+        "تیم رهبری ۶ نفره کاملاً همسو با چارت پاسخگویی بدون هیچ صندلی خالی",
+        "دپارتمان فروش دارای خط لوله پیش‌بینی‌پذیر با حداقل ۴۵ دمو در ماه",
+        "۱۰۰٪ فرآیندهای کلیدی مستندسازی‌شده و اجراشده توسط تمام ۸۵ همکار",
+        "استقرار کامل دفتر دوم منطقه‌ای در اصفهان با مدیر مستقل",
+        "کسب رتبه‌بندی رضایت شغلی بالای ۴.۵ از ۵ در ارزیابی سالانه پرسنل"
+      ]
+    },
+    "oneYearPlan": {
+      "futureDate": "اسفند ۱۴۰۵ (End of Year)",
+      "revenue": "۸۵ میلیارد تومان",
+      "profit": "۱۵ میلیارد تومان (۱۷.۶٪)",
+      "measurables": "۱۲۰ مشتری فعال · میانگین ارزش قرارداد ۷۱۰ میلیون تومان · حاشیه سود ناخالص ۶۸٪",
+      "goals": [
+        "جذب ۴۲ مشتری جدید سازمانی از طریق فرآیند فروش استاندارد",
+        "کاهش زمان متوسط استقرار از ۶۰ روز به ۴۵ روز کاری",
+        "رساندن امتیاز Organizational Checkup تمام ۶ مؤلفه به بالای ۸۰٪",
+        "تکمیل مستندسازی و FBA تمام ۷ فرآیند کلیدی شرکت",
+        "افزایش نرخ نگهداشت مشتریان سالانه به ۹۴٪"
+      ]
+    },
+    "stateOfCompanyNotes": "در فصل پاییز تمرکز اصلی ما بر تثبیت انضباط اسکورکارد هفتگی و تکمیل انتقال وظایف اجرایی از بنیان‌گذار به مجرّی است."
+  },
+  "peopleBar": {
+    "minPlusCount": 3,
+    "allowMinus": false,
+    "requireFullGWC": true
+  },
+  "members": [
+    {
+      "id": "mem-1",
+      "name": "سهراب فرهادی",
+      "roleTitle": "ایده‌پرداز (Visionary)",
+      "email": "sohrab@rayatech.ir",
+      "avatarInitials": "س ف",
+      "isVisionary": true,
+      "valueScores": {
+        "cv-1": "+",
+        "cv-2": "+",
+        "cv-3": "+/-",
+        "cv-4": "+",
+        "cv-5": "+"
+      },
+      "gwc": {
+        "getIt": true,
+        "wantIt": true,
+        "capacity": true
+      },
+      "strikes": [],
+      "last555Date": "2026-11-17",
+      "annualReviewDate": "2026-03-10",
+      "annualReviewSummary": "نقطه قوت: چشم‌اندازسازی و روابط کلیدی. تمرکز سال آینده: پرهیز از ورود مستقیم به عملیات روزانه."
+    },
+    {
+      "id": "mem-2",
+      "name": "نگار کریمی",
+      "roleTitle": "مجرّی و هماهنگ‌کننده (Integrator)",
+      "email": "negar@rayatech.ir",
+      "avatarInitials": "ن ک",
+      "isIntegrator": true,
+      "valueScores": {
+        "cv-1": "+",
+        "cv-2": "+",
+        "cv-3": "+",
+        "cv-4": "+",
+        "cv-5": "+"
+      },
+      "gwc": {
+        "getIt": true,
+        "wantIt": true,
+        "capacity": true
+      },
+      "strikes": [],
+      "last555Date": "2026-11-17",
+      "annualReviewDate": "2026-03-12",
+      "annualReviewSummary": "رهبری منضبط در جلسات L10 و هماهنگی عالی بین فروش و عملیات."
+    },
+    {
+      "id": "mem-3",
+      "name": "سینا مرادی",
+      "roleTitle": "مدیر فروش و بازاریابی",
+      "email": "sina@rayatech.ir",
+      "avatarInitials": "س م",
+      "valueScores": {
+        "cv-1": "+",
+        "cv-2": "+/-",
+        "cv-3": "+",
+        "cv-4": "+",
+        "cv-5": "+"
+      },
+      "gwc": {
+        "getIt": true,
+        "wantIt": true,
+        "capacity": true
+      },
+      "strikes": [],
+      "last555Date": "2026-11-17",
+      "annualReviewDate": "2026-03-14",
+      "annualReviewSummary": "تسلط کامل بر قیف فروش B2B؛ نیازمند تقویت گزارش‌دهی هفتگی پیش‌بینی."
+    },
+    {
+      "id": "mem-4",
+      "name": "علی رضایی",
+      "roleTitle": "مدیر عملیات و استقرار",
+      "email": "ali@rayatech.ir",
+      "avatarInitials": "ع ر",
+      "valueScores": {
+        "cv-1": "+",
+        "cv-2": "+",
+        "cv-3": "+",
+        "cv-4": "+/-",
+        "cv-5": "+"
+      },
+      "gwc": {
+        "getIt": true,
+        "wantIt": true,
+        "capacity": false
+      },
+      "strikes": [
+        {
+          "id": "str-1",
+          "strikeNumber": 1,
+          "date": "2026-11-01",
+          "note": "ظرفیت مدیریت هم‌زمان بیش از ۶ پروژه استقرار پر شده است؛ فرصت ۳۰ روزه برای تفویض به سرپرست فنی.",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939408591",
+          "strikeNumber": 2,
+          "date": "2026-11-17",
+          "note": "هنوز با تفویض مشکل دارد. فرصت ۳۰ روزه تفویض به سرپرست فنی",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939498463",
+          "strikeNumber": 3,
+          "date": "2026-11-17",
+          "note": "فرصت نهایی برای حل مشکل اعتماد به دیگران",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939529295",
+          "strikeNumber": 1,
+          "date": "2026-11-17",
+          "note": "اخراج از کار",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939543031",
+          "strikeNumber": 2,
+          "date": "2026-11-17",
+          "note": "دوباره مشکل ایجاد شد",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939550511",
+          "strikeNumber": 3,
+          "date": "2026-11-17",
+          "note": "کاری نکرد",
+          "status": "resolved"
+        }
+      ],
+      "last555Date": "2026-11-17",
+      "annualReviewDate": "2026-03-15",
+      "annualReviewSummary": "تعهد عالی به کیفیت ولی نیازمند واگذاری کارهای تکراری برای رفع سقف ظرفیت."
+    },
+    {
+      "id": "mem-5",
+      "name": "مریم اکبری",
+      "roleTitle": "مدیر مالی و اداری",
+      "email": "maryam@rayatech.ir",
+      "avatarInitials": "م ا",
+      "valueScores": {
+        "cv-1": "+",
+        "cv-2": "+",
+        "cv-3": "+",
+        "cv-4": "+/-",
+        "cv-5": "+"
+      },
+      "gwc": {
+        "getIt": true,
+        "wantIt": true,
+        "capacity": true
+      },
+      "strikes": [],
+      "last555Date": "2026-11-17",
+      "annualReviewDate": "2026-03-18",
+      "annualReviewSummary": "دقت مالی بالا و راه‌اندازی گزارش جریان نقد هفتگی."
+    },
+    {
+      "id": "mem-6",
+      "name": "پویا شریفی",
+      "roleTitle": "سرپرست پشتیبانی فنی",
+      "email": "pouya@rayatech.ir",
+      "avatarInitials": "پ ش",
+      "valueScores": {
+        "cv-1": "+/-",
+        "cv-2": "-",
+        "cv-3": "+",
+        "cv-4": "+/-",
+        "cv-5": "+"
+      },
+      "gwc": {
+        "getIt": true,
+        "wantIt": true,
+        "capacity": true
+      },
+      "strikes": [
+        {
+          "id": "str-2",
+          "strikeNumber": 1,
+          "date": "2026-10-10",
+          "note": "تضاد رفتاری در ارزش «شفافیت و صداقت سازنده» و پنهان کردن تأخیر تیکت‌ها.",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939581998",
+          "strikeNumber": 1,
+          "date": "2026-11-17",
+          "note": "جلسه صریح ۱ به ۱ و اعطای فرصت ۳۰ روزه اول برای اصلاح عملکرد.",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939610600",
+          "strikeNumber": 2,
+          "date": "2026-11-17",
+          "note": "تمایل به اصلاح رفتار دیده شد",
+          "status": "resolved"
+        },
+        {
+          "id": "str-1794939617527",
+          "strikeNumber": 3,
+          "date": "2026-11-17",
+          "note": "اصلاح شد",
+          "status": "resolved"
+        }
+      ],
+      "last555Date": "2026-11-17",
+      "annualReviewDate": "2026-03-20",
+      "annualReviewSummary": "مهارت فنی قوی، نیازمند بهبود فوری همسویی با ارزش محوری شفافیت."
+    },
+    {
+      "id": "mem-1794939094591",
+      "name": "محمدجواد مدنی",
+      "roleTitle": "کارشناس تحول دیجیتال",
+      "email": "",
+      "avatarInitials": "م م",
+      "valueScores": {
+        "cv-1": "+",
+        "cv-2": "+",
+        "cv-3": "+",
+        "cv-4": "+",
+        "cv-5": "+"
+      },
+      "gwc": {
+        "getIt": true,
+        "wantIt": true,
+        "capacity": true
+      },
+      "strikes": [],
+      "last555Date": "2026-11-17",
+      "annualReviewDate": "2026-11-17",
+      "annualReviewSummary": "بسیار قوی در خلق و ایجاد ایده"
+    }
+  ],
+  "seats": [
+    {
+      "id": "seat-visionary",
+      "title": "ایده‌پرداز (Visionary)",
+      "department": "leadership",
+      "parentId": null,
+      "ownerId": "mem-1",
+      "hasDirectReports": true,
+      "roles": [
+        "LMA (رهبری، مدیریت، پاسخگویی) در سطح کلان و حفظ روح فرهنگ",
+        "خلق ایده‌های بزرگ و جهت‌دهی تحقیق و توسعه محصول",
+        "حل مسائل کلان استراتژیک و عبور از گلوگاه‌های بازار",
+        "ایجاد روابط کلیدی با مشتریان استراتژیک و شرکای تجاری",
+        "پاسداری از ارزش‌های محوری و نطق وضعیت شرکت"
+      ]
+    },
+    {
+      "id": "seat-integrator",
+      "title": "مجرّی / هماهنگ‌کننده (Integrator)",
+      "department": "leadership",
+      "parentId": "seat-visionary",
+      "ownerId": "mem-2",
+      "hasDirectReports": true,
+      "roles": [
+        "LMA (رهبری، مدیریت، پاسخگویی) تیم رهبری ارشد",
+        "تحقق برنامه کسب‌وکار و سود و زیان (P&L) سالانه",
+        "همسویی و یکپارچه‌سازی بین فروش، عملیات و مالی",
+        "تسهیل و حفظ انضباط ریتم جلسات L10 و حل مسائل (IDS)",
+        "حذف موانع میان‌بخشی و تضمین اجرای ۹۰ روزه راک‌ها"
+      ]
+    },
+    {
+      "id": "seat-sales",
+      "title": "فروش و بازاریابی (Sales & Marketing)",
+      "department": "sales",
+      "parentId": "seat-integrator",
+      "ownerId": "mem-3",
+      "hasDirectReports": true,
+      "roles": [
+        "LMA (رهبری، مدیریت، پاسخگویی) تیم بازاریابی و توسعه کسب‌وکار",
+        "مدیریت قیف سرنخ‌ها و تحقق تارگت هفتگی تماس و دمو",
+        "بستن قراردادهای جدید B2B منطبق با بازار هدف V/TO",
+        "اجرای ۳ ویژگی منحصر‌به‌فرد در ارائه پیام برند",
+        "تحویل شفاف و استاندارد مشتریان جدید به تیم عملیات"
+      ]
+    },
+    {
+      "id": "seat-ops",
+      "title": "عملیات و استقرار (Operations)",
+      "department": "operations",
+      "parentId": "seat-integrator",
+      "ownerId": "mem-4",
+      "hasDirectReports": true,
+      "roles": [
+        "LMA (رهبری، مدیریت، پاسخگویی) تیم استقرار و مهندسی پروژه",
+        "تحویل به‌موقع پروژه‌های ۴۵ روزه با رعایت گارانتی شرکت",
+        "تضمین کیفیت خدمات، حاشیه سود پروژه و رضایت مشتری",
+        "مستندسازی و اجرای همگانی (FBA) فرآیند استقرار و پشتیبانی",
+        "مدیریت ظرفیت فنی و ارتقای ابزارهای اتوماسیون داخلی"
+      ]
+    },
+    {
+      "id": "seat-finance",
+      "title": "مالی و اداری (Finance & Admin)",
+      "department": "finance",
+      "parentId": "seat-integrator",
+      "ownerId": "mem-5",
+      "hasDirectReports": false,
+      "roles": [
+        "مدیریت جریان نقدینگی هفتگی و پیش‌بینی نقد ۹۰ روزه",
+        "وصول به‌موقع مطالبات و کنترل سررسید قراردادها",
+        "تهیه گزارش دقیق سود و زیان (P&L) ماهانه تا پنجم هر ماه",
+        "کنترل بودجه دپارتمان‌ها و قراردادهای حقوقی و بیمه‌ای",
+        "پشتیبانی فرآیند جذب، پرونده پرسنلی و حقوق و دستمزد"
+      ]
+    },
+    {
+      "id": "seat-support",
+      "title": "پشتیبانی و موفقیت مشتری (Support)",
+      "department": "operations",
+      "parentId": "seat-ops",
+      "ownerId": "mem-6",
+      "hasDirectReports": false,
+      "roles": [
+        "پاسخ‌گویی به تیکت‌های مشتریان با SLA زیر ۱۵ دقیقه",
+        "کاهش خطاهای تکراری سیستم و ریشه‌یابی باگ‌های عملیاتی",
+        "اجرای چک‌لیست آموزش مشتریان جدید پس از استقرار",
+        "اندازه‌گیری ماهانه شاخص NPS و رضایت مشتریان فعال",
+        "ثبت بازخوردهای محصول برای تیم عملیات و ایده‌پرداز"
+      ]
+    },
+    {
+      "id": "seat-1794939039480",
+      "title": "بازاریابی دیجیتال",
+      "department": "leadership",
+      "parentId": "seat-integrator",
+      "ownerId": "mem-1794939094591",
+      "hasDirectReports": true,
+      "roles": [
+        "LMA (رهبری، مدیریت، پاسخگویی) تیم زیرمجموعه",
+        "تهیه و بروزرسانی نقشه تحول دیجیتال",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "scorecard": [
+    {
+      "id": "sc-1",
+      "name": "تماس‌های جدید فروش (Outbound)",
+      "ownerId": "mem-3",
+      "unit": "تماس",
+      "operator": ">=",
+      "goal": 50,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 52
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 48
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 55
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 51
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 54
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 60
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 53
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 57
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 52
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 58
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 61
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 54
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "id": "sc-2",
+      "name": "جلسات دموی تخصصی برگزارشده",
+      "ownerId": "mem-3",
+      "unit": "جلسه",
+      "operator": ">=",
+      "goal": 8,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 9
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 8
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 10
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 7
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 9
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 11
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 8
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 9
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 10
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 8
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 9
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 10
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "id": "sc-3",
+      "name": "وصول مطالبات هفتگی (میلیون تومان)",
+      "ownerId": "mem-5",
+      "unit": "M",
+      "operator": ">=",
+      "goal": 950,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 1100
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 1050
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 980
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 1020
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 960
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 1150
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 990
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 1010
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 970
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 1080
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 1000
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 710
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 650
+        }
+      ]
+    },
+    {
+      "id": "sc-4",
+      "name": "تحویل به‌موقع مایلستون استقرار (٪)",
+      "ownerId": "mem-4",
+      "unit": "٪",
+      "operator": ">=",
+      "goal": 90,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 92
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 95
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 91
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 90
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 88
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 93
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 94
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 91
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 89
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 92
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 90
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 84
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 82
+        }
+      ]
+    },
+    {
+      "id": "sc-5",
+      "name": "خطای بحرانی سیستم تولیدی (OT)",
+      "ownerId": "mem-6",
+      "unit": "خطا",
+      "operator": "<=",
+      "goal": 1,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "sc-6",
+      "name": "نرخ اجرای To-Do های تیم رهبری (٪)",
+      "ownerId": "mem-2",
+      "unit": "٪",
+      "operator": ">=",
+      "goal": 90,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 92
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 90
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 95
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 91
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 94
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 90
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 96
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 92
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 93
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 95
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 91
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 94
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 92
+        }
+      ]
+    },
+    {
+      "id": "sc-7",
+      "name": "گفتگوهای ۵-۵-۵ و همسویی رهبری انجام‌شده",
+      "ownerId": "mem-1",
+      "unit": "جلسه",
+      "operator": ">=",
+      "goal": 2,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 3
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 3
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 3
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": "sc-1794940608679",
+      "name": "ایجاد حداقل یک پروپوزال مهندسی",
+      "ownerId": "mem-1794939094591",
+      "unit": "عدد",
+      "operator": ">=",
+      "goal": 1,
+      "weeks": [
+        {
+          "weekLabel": "هـ۱",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۲",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۳",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۴",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۵",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۶",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۷",
+          "value": 5
+        },
+        {
+          "weekLabel": "هـ۸",
+          "value": 2
+        },
+        {
+          "weekLabel": "هـ۹",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۱۰",
+          "value": 0
+        },
+        {
+          "weekLabel": "هـ۱۱",
+          "value": 1
+        },
+        {
+          "weekLabel": "هـ۱۲",
+          "value": 5
+        },
+        {
+          "weekLabel": "هـ۱۳",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "iss-1794946689389",
+      "title": "تیتر L10: مهندس جدید تیم استقرار (امیرحسین) هفته اول آموزشی خود را با نمره کامل پشت سر گذاشت.",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-4",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "headline",
+        "sourceId": "hl-3",
+        "label": "تیتر مشتریان/پرسنل"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794946688853",
+      "title": "تیتر L10: مشتری پخش البرز از کندی گزارش انبار در ساعات اوج کاری گلایه کرده است.",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-6",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "headline",
+        "sourceId": "hl-2",
+        "label": "تیتر مشتریان/پرسنل"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794946688005",
+      "title": "تیتر L10: شرکت صنایع غذایی سپهر قرارداد سالانه خود را برای ۳ کارخانه جدید تمدید و ارتقا داد.",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-3",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "headline",
+        "sourceId": "hl-1",
+        "label": "تیتر مشتریان/پرسنل"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794946597638",
+      "title": "انحراف اسکورکارد: خطای بحرانی سیستم تولیدی (OT) (عدد ثبت‌شده: 0 در برابر هدف <= 1)",
+      "listType": "l10",
+      "department": "operations",
+      "ownerId": "mem-6",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "scorecard",
+        "sourceId": "sc-5",
+        "label": "اسکورکارد · خطای بحرانی سیستم تولیدی (OT)"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794946592093",
+      "title": "انحراف اسکورکارد: تماس‌های جدید فروش (Outbound) (عدد ثبت‌شده: 56 در برابر هدف >= 50)",
+      "listType": "l10",
+      "department": "sales",
+      "ownerId": "mem-3",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "scorecard",
+        "sourceId": "sc-1",
+        "label": "اسکورکارد · تماس‌های جدید فروش (Outbound)"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794946462621",
+      "title": "راک عقب‌افتاده: استقرار کامل فرایند تولید خودکار گزارش های مهندسی",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-1794939094591",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "rock",
+        "sourceId": "rock-1794946443118",
+        "label": "راک ۹۰ روزه · پاییز ۱۴۰۵ (Q4 2026)"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794946341405",
+      "title": "راک عقب‌افتاده: تکمیل چک‌لیست FBA برای ۵ فرآیند اصلی شرکت تا ۸۵٪",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-2",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "rock",
+        "sourceId": "rock-3",
+        "label": "راک ۹۰ روزه · پاییز ۱۴۰۵ (Q4 2026)"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794946152869",
+      "title": "انحراف اسکورکارد: ایجاد حداقل یک پروپوزال مهندسی (عدد ثبت‌شده: 0 در برابر هدف >= 1)",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-1794939094591",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "scorecard",
+        "sourceId": "sc-1794940608679",
+        "label": "اسکورکارد · ایجاد حداقل یک پروپوزال مهندسی"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1794945507678",
+      "title": "انحراف اسکورکارد: ایجاد حداقل یک پروپوزال مهندسی (عدد ثبت‌شده: 0 در برابر هدف >= 1)",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-1794939094591",
+      "priority": null,
+      "status": "solved",
+      "rootCauseSentence": "مشغول شدن در پروژه بهبهان",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "scorecard",
+        "sourceId": "sc-1794940608679",
+        "label": "اسکورکارد · ایجاد حداقل یک پروپوزال مهندسی"
+      },
+      "createdAt": "2026-11-17",
+      "solvedAt": "2026-11-17",
+      "resolutionSummary": "اقدام ۷ روزه: فرصت یک هفته ای برای بازگرداندن خروچی"
+    },
+    {
+      "id": "iss-1794941186719",
+      "title": "یکی از افراد تیم در مقابل کارفرما استرس گرفته و نمیتواند ویپ نکشد",
+      "listType": "l10",
+      "department": "leadership",
+      "ownerId": "mem-1794939094591",
+      "priority": null,
+      "status": "solved",
+      "rootCauseSentence": "استرس شدید",
+      "enterTheDangerNote": "شخصیت سازمانی را پایین آورده است",
+      "linkedSource": {
+        "type": "manual",
+        "label": "ثبت مستقیم"
+      },
+      "createdAt": "2026-11-17",
+      "solvedAt": "2026-11-17",
+      "resolutionSummary": "اقدام ۷ روزه: معرفی به کاردرمان"
+    },
+    {
+      "id": "iss-1794940401927",
+      "title": "انحراف اسکورکارد: تحویل به‌موقع مایلستون استقرار (٪) (عدد ثبت‌شده: 82 در برابر هدف >= 90)",
+      "listType": "l10",
+      "department": "operations",
+      "ownerId": "mem-4",
+      "priority": null,
+      "status": "solved",
+      "rootCauseSentence": "عدم هماهنگی تیم های مختلف با هم",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "scorecard",
+        "sourceId": "sc-4",
+        "label": "اسکورکارد · تحویل به‌موقع مایلستون استقرار (٪)"
+      },
+      "createdAt": "2026-11-17",
+      "solvedAt": "2026-11-17",
+      "resolutionSummary": "اقدام ۷ روزه: ایجاد جلسه هماهنگی تیمی"
+    },
+    {
+      "id": "iss-1794937835143",
+      "title": "راک عقب‌افتاده: بستن ۱۲ قرارداد جدید B2B با میانگین قرارداد ۷۰۰ میلیون تومان",
+      "listType": "l10",
+      "department": "sales",
+      "ownerId": "mem-3",
+      "priority": 1,
+      "status": "open",
+      "rootCauseSentence": "",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "rock",
+        "sourceId": "rock-1",
+        "label": "راک ۹۰ روزه · پاییز ۱۴۰۵ (Q4 2026)"
+      },
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "iss-1",
+      "title": "افت دو هفته‌ای وصول مطالبات (۶۵۰M در برابر تارگت ۹۵۰M)",
+      "listType": "l10",
+      "department": "finance",
+      "ownerId": "mem-5",
+      "priority": null,
+      "status": "solved",
+      "rootCauseSentence": "۳ مشتری فاکتورهای خود را معلق کردند",
+      "enterTheDangerNote": "نیاز به هماهنگی مستقیم فروش و عملیات برای تعریف دقیق شرط تحویل در قراردادها.",
+      "linkedSource": {
+        "type": "scorecard",
+        "sourceId": "sc-3",
+        "label": "اسکورکارد: وصول مطالبات هفتگی"
+      },
+      "createdAt": "2026-11-12",
+      "solvedAt": "2026-11-17",
+      "resolutionSummary": "اقدام ۷ روزه: تکمیل فرایند خرید"
+    },
+    {
+      "id": "iss-2",
+      "title": "گلوگاه ظرفیت تیم استقرار و عقب افتادن راک ۴۵ روزه",
+      "listType": "l10",
+      "department": "operations",
+      "ownerId": "mem-4",
+      "priority": null,
+      "status": "solved",
+      "rootCauseSentence": "مدیر عملیات شخصاً در حال انجام تنظیمات اولیه دیتابیس پروژه‌هاست به جای تفویض به کارشناسان فنی.",
+      "enterTheDangerNote": "صندلی عملیات در حال نزدیک شدن به سقف ظرفیت (Capacity = No) است.",
+      "linkedSource": {
+        "type": "rock",
+        "sourceId": "rock-2",
+        "label": "راک: کاهش زمان استقرار به ۴۵ روز"
+      },
+      "createdAt": "2026-11-10",
+      "solvedAt": "2026-11-17",
+      "resolutionSummary": "اقدام ۷ روزه: گرفتن کمک از محمدجواد مدنی"
+    },
+    {
+      "id": "iss-3",
+      "title": "عدم همسویی پویا شریفی با ارزش محوری شفافیت",
+      "listType": "l10",
+      "department": "operations",
+      "ownerId": "mem-2",
+      "priority": 3,
+      "status": "open",
+      "rootCauseSentence": "ضربه اول (۳۰ روزه) صادر شده ولی شاخص گزارش صادقانه تأخیرها هنوز هفتگی ممیزی نشده است.",
+      "enterTheDangerNote": "گفتگوی صریح ضربه دوم در صورت عدم اصلاح تا پایان ماه ضروری است.",
+      "linkedSource": {
+        "type": "manual",
+        "label": "People Analyzer · Three-Strike"
+      },
+      "createdAt": "2026-11-08"
+    },
+    {
+      "id": "iss-4",
+      "title": "نبود همگام‌سازی خودکار فرم دمو با CRM فروش",
+      "listType": "departmental",
+      "department": "sales",
+      "ownerId": "mem-3",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "سرنخ‌های وب‌سایت به‌صورت دستی وارد اکسل می‌شوند و پیگیری اولیه بیش از ۴ ساعت تأخیر دارد.",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "manual",
+        "label": "دپارتمان فروش"
+      },
+      "createdAt": "2026-11-11"
+    },
+    {
+      "id": "iss-5",
+      "title": "طراحی ساختار شعبه اصفهان برای سال ۱۴۰۷",
+      "listType": "long_term",
+      "department": "leadership",
+      "ownerId": "mem-1",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "پیش از تثبیت ۱۰۰٪ فرآیندهای دفتر مرکزی، توسعه جغرافیایی باعث افت کیفیت خواهد شد.",
+      "enterTheDangerNote": "در تصویر ۳ ساله دیده شده؛ تا فصل بهار نباید وارد اجرا شود.",
+      "linkedSource": {
+        "type": "manual",
+        "label": "V/TO Long-Term"
+      },
+      "createdAt": "2026-10-15"
+    },
+    {
+      "id": "iss-6",
+      "title": "بازنگری مدل قیمت‌گذاری اشتراک سالانه ۱۴۰۶",
+      "listType": "long_term",
+      "department": "finance",
+      "ownerId": "mem-5",
+      "priority": null,
+      "status": "open",
+      "rootCauseSentence": "تورم هزینه‌های زیرساخت ابری نیازمند مدل قیمت‌گذاری پلکانی بر اساس تعداد کاربر است.",
+      "enterTheDangerNote": "",
+      "linkedSource": {
+        "type": "manual",
+        "label": "V/TO Long-Term"
+      },
+      "createdAt": "2026-10-20"
+    }
+  ],
+  "rocks": [
+    {
+      "id": "rock-1794946443118",
+      "title": "استقرار کامل فرایند تولید خودکار گزارش های مهندسی",
+      "ownerId": "mem-1794939094591",
+      "scope": "company",
+      "quarter": "پاییز ۱۴۰۵ (Q4 2026)",
+      "dueDate": "2026-12-31",
+      "status": "on_track",
+      "smartCheck": {
+        "specific": true,
+        "measurable": true,
+        "achievable": true,
+        "relevant": true,
+        "timeBound": true
+      },
+      "milestones": []
+    },
+    {
+      "id": "rock-1",
+      "title": "بستن ۱۲ قرارداد جدید B2B با میانگین قرارداد ۷۰۰ میلیون تومان",
+      "ownerId": "mem-3",
+      "scope": "company",
+      "quarter": "پاییز ۱۴۰۵ (Q4 2026)",
+      "dueDate": "2026-12-21",
+      "status": "on_track",
+      "smartCheck": {
+        "specific": true,
+        "measurable": true,
+        "achievable": true,
+        "relevant": true,
+        "timeBound": true
+      },
+      "milestones": [
+        {
+          "id": "ms-1",
+          "title": "تکمیل لیست ۱۰۰ شرکت هدف صنعتی",
+          "done": true
+        },
+        {
+          "id": "ms-2",
+          "title": "برگزاری ۳۰ جلسه دمو تخصصی",
+          "done": true
+        },
+        {
+          "id": "ms-3",
+          "title": "ارسال ۱۸ پروپوزال نهایی",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "rock-2",
+      "title": "کاهش زمان استاندارد استقرار مشتریان از ۶۰ روز به ۴۵ روز کاری",
+      "ownerId": "mem-4",
+      "scope": "company",
+      "quarter": "پاییز ۱۴۰۵ (Q4 2026)",
+      "dueDate": "2026-12-21",
+      "status": "off_track",
+      "smartCheck": {
+        "specific": true,
+        "measurable": true,
+        "achievable": true,
+        "relevant": true,
+        "timeBound": true
+      },
+      "milestones": [
+        {
+          "id": "ms-4",
+          "title": "تدوین اسکریپت‌های انتقال داده خودکار",
+          "done": true
+        },
+        {
+          "id": "ms-5",
+          "title": "تفویض نصب اولیه به ۲ کارشناس ارشد",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "rock-3",
+      "title": "تکمیل چک‌لیست FBA برای ۵ فرآیند اصلی شرکت تا ۸۵٪",
+      "ownerId": "mem-2",
+      "scope": "company",
+      "quarter": "پاییز ۱۴۰۵ (Q4 2026)",
+      "dueDate": "2026-12-21",
+      "status": "done",
+      "smartCheck": {
+        "specific": true,
+        "measurable": true,
+        "achievable": true,
+        "relevant": true,
+        "timeBound": true
+      },
+      "milestones": [
+        {
+          "id": "ms-6",
+          "title": "بازبینی اسناد ۲۰/۸۰ تمام بخش‌ها",
+          "done": true
+        },
+        {
+          "id": "ms-7",
+          "title": "برگزاری کارگاه آموزشی همگانی",
+          "done": true
+        }
+      ]
+    },
+    {
+      "id": "rock-4",
+      "title": "استقرار سیستم پیش‌بینی جریان نقد ۱۳ هفته‌ای بدون خطای مغایرت",
+      "ownerId": "mem-5",
+      "scope": "company",
+      "quarter": "پاییز ۱۴۰۵ (Q4 2026)",
+      "dueDate": "2026-12-21",
+      "status": "done",
+      "smartCheck": {
+        "specific": true,
+        "measurable": true,
+        "achievable": true,
+        "relevant": true,
+        "timeBound": true
+      },
+      "milestones": [
+        {
+          "id": "ms-8",
+          "title": "یکپارچه‌سازی حساب‌های بانکی و CRM",
+          "done": true
+        },
+        {
+          "id": "ms-9",
+          "title": "تصویب گزارش هفتگی در L10",
+          "done": true
+        }
+      ]
+    },
+    {
+      "id": "rock-5",
+      "title": "تدوین سخنرانی ارزش‌های محوری و نطق وضعیت شرکت برای جلسه فصلی",
+      "ownerId": "mem-1",
+      "scope": "individual",
+      "quarter": "پاییز ۱۴۰۵ (Q4 2026)",
+      "dueDate": "2026-12-10",
+      "status": "on_track",
+      "smartCheck": {
+        "specific": true,
+        "measurable": true,
+        "achievable": true,
+        "relevant": true,
+        "timeBound": true
+      },
+      "milestones": [
+        {
+          "id": "ms-10",
+          "title": "جمع‌آوری ۵ داستان واقعی تجلی ارزش‌ها",
+          "done": true
+        }
+      ]
+    }
+  ],
+  "todos": [
+    {
+      "id": "td-1794947374293",
+      "title": "تفویض‌شده (Delegate & Elevate): تماس های تلفنی با ذی نفعان",
+      "ownerId": "mem-1",
+      "dueDate": "2026-11-24",
+      "done": false,
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "td-1794947363768",
+      "title": "تفویض‌شده (Delegate & Elevate): تأیید دستی فاکتورهای خرید جزئی و هزینه‌های اداری روزانه",
+      "ownerId": "mem-5",
+      "dueDate": "2026-11-24",
+      "done": false,
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "td-1794947336997",
+      "title": "تفویض‌شده (Delegate & Elevate): تنظیم اولیه سرور و اسکریپت‌های دیتابیس مشتریان جدید",
+      "ownerId": "mem-6",
+      "dueDate": "2026-11-24",
+      "done": false,
+      "createdAt": "2026-11-17"
+    },
+    {
+      "id": "td-1794946905365",
+      "title": "معرفی به کاردرمان",
+      "ownerId": "mem-1794939094591",
+      "dueDate": "2026-11-24",
+      "done": true,
+      "createdAt": "2026-11-17",
+      "sourceIssueId": "iss-1794941186719"
+    },
+    {
+      "id": "td-1794946866181",
+      "title": "تکمیل فرایند خرید",
+      "ownerId": "mem-1",
+      "dueDate": "2026-11-24",
+      "done": true,
+      "createdAt": "2026-11-17",
+      "sourceIssueId": "iss-1"
+    },
+    {
+      "id": "td-1794946271983",
+      "title": "گرفتن کمک از محمدجواد مدنی",
+      "ownerId": "mem-4",
+      "dueDate": "2026-11-24",
+      "done": true,
+      "createdAt": "2026-11-17",
+      "sourceIssueId": "iss-2"
+    },
+    {
+      "id": "td-1794945569926",
+      "title": "فرصت یک هفته ای برای بازگرداندن خروچی",
+      "ownerId": "mem-1794939094591",
+      "dueDate": "2026-11-24",
+      "done": false,
+      "createdAt": "2026-11-17",
+      "sourceIssueId": "iss-1794945507678"
+    },
+    {
+      "id": "td-1794940933152",
+      "title": "ایجاد جلسه هماهنگی تیمی",
+      "ownerId": "mem-4",
+      "dueDate": "2026-11-24",
+      "done": true,
+      "createdAt": "2026-11-17",
+      "sourceIssueId": "iss-1794940401927"
+    },
+    {
+      "id": "td-1",
+      "title": "ارسال لیست ۳ مشتری معوق وصول به سینا برای هماهنگی جلسه تأییدیه تحویل",
+      "ownerId": "mem-5",
+      "dueDate": "2026-11-23",
+      "done": true,
+      "createdAt": "2026-11-09"
+    },
+    {
+      "id": "td-2",
+      "title": "نهایی‌سازی چک‌لیست استاندارد انتقال مشتری از فروش به عملیات",
+      "ownerId": "mem-3",
+      "dueDate": "2026-11-23",
+      "done": true,
+      "createdAt": "2026-11-09"
+    },
+    {
+      "id": "td-3",
+      "title": "برگزاری جلسه ارزیابی ۳۰ روزه ضربه اول با پویا شریفی",
+      "ownerId": "mem-2",
+      "dueDate": "2026-11-23",
+      "done": true,
+      "createdAt": "2026-11-09"
+    },
+    {
+      "id": "td-4",
+      "title": "تحویل دسترسی و مستندات راه‌اندازی دیتابیس به ۲ کارشناس فنی جدید",
+      "ownerId": "mem-4",
+      "dueDate": "2026-11-23",
+      "done": false,
+      "createdAt": "2026-11-09"
+    },
+    {
+      "id": "td-5",
+      "title": "انتشار پیام آبشاری جلسه L10 درباره گارانتی ۴۵ روزه در کانال عمومی",
+      "ownerId": "mem-2",
+      "dueDate": "2026-11-23",
+      "done": true,
+      "createdAt": "2026-11-09"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "hl-1794946730838",
+      "text": "دفتر کرج تجهیز شد و آماده جذب نیرو است.",
+      "category": "customer",
+      "sentiment": "good",
+      "ownerId": "mem-2",
+      "date": "2026-11-17"
+    },
+    {
+      "id": "hl-1",
+      "text": "شرکت صنایع غذایی سپهر قرارداد سالانه خود را برای ۳ کارخانه جدید تمدید و ارتقا داد.",
+      "category": "customer",
+      "sentiment": "good",
+      "ownerId": "mem-3",
+      "date": "2026-11-15"
+    },
+    {
+      "id": "hl-2",
+      "text": "مشتری پخش البرز از کندی گزارش انبار در ساعات اوج کاری گلایه کرده است.",
+      "category": "customer",
+      "sentiment": "bad",
+      "ownerId": "mem-6",
+      "date": "2026-11-15"
+    },
+    {
+      "id": "hl-3",
+      "text": "مهندس جدید تیم استقرار (امیرحسین) هفته اول آموزشی خود را با نمره کامل پشت سر گذاشت.",
+      "category": "employee",
+      "sentiment": "good",
+      "ownerId": "mem-4",
+      "date": "2026-11-14"
+    }
+  ],
+  "meetings": [
+    {
+      "id": "mtg-1794947029861",
+      "date": "2026-11-17",
+      "facilitatorId": "mem-2",
+      "scribeId": "mem-5",
+      "durationMinutes": 6,
+      "ratings": [
+        {
+          "memberId": "mem-1",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-2",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-3",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-4",
+          "score": 10,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-5",
+          "score": 9,
+          "reasonBelow8": ""
+        }
+      ],
+      "cascadingMessages": [
+        "تعهد تیم رهبری به تکمیل ۱۰۰٪ گزارش اسکورکارد پیش از جلسه دوشنبه.",
+        "آماده سازی یکپارچه تیمی برای ورود در دل خطر"
+      ],
+      "toDoCompletionRate": 40,
+      "notes": "میانگین امتیاز جلسه: 9.2/10"
+    },
+    {
+      "id": "mtg-1794947020181",
+      "date": "2026-11-17",
+      "facilitatorId": "mem-2",
+      "scribeId": "mem-5",
+      "durationMinutes": 6,
+      "ratings": [
+        {
+          "memberId": "mem-1",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-2",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-3",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-4",
+          "score": 10,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-5",
+          "score": 9,
+          "reasonBelow8": ""
+        }
+      ],
+      "cascadingMessages": [
+        "تعهد تیم رهبری به تکمیل ۱۰۰٪ گزارش اسکورکارد پیش از جلسه دوشنبه.",
+        "آماده سازی یکپارچه تیمی برای ورود در دل خطر"
+      ],
+      "toDoCompletionRate": 40,
+      "notes": "میانگین امتیاز جلسه: 9.2/10"
+    },
+    {
+      "id": "mtg-1794947001541",
+      "date": "2026-11-17",
+      "facilitatorId": "mem-2",
+      "scribeId": "mem-5",
+      "durationMinutes": 6,
+      "ratings": [
+        {
+          "memberId": "mem-1",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-2",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-3",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-4",
+          "score": 9,
+          "reasonBelow8": ""
+        },
+        {
+          "memberId": "mem-5",
+          "score": 9,
+          "reasonBelow8": ""
+        }
+      ],
+      "cascadingMessages": [
+        "تعهد تیم رهبری به تکمیل ۱۰۰٪ گزارش اسکورکارد پیش از جلسه دوشنبه.",
+        "آماده سازی یکپارچه تیمی برای ورود در دل خطر"
+      ],
+      "toDoCompletionRate": 40,
+      "notes": "میانگین امتیاز جلسه: 9/10"
+    },
+    {
+      "id": "mtg-1",
+      "date": "2026-11-09",
+      "facilitatorId": "mem-2",
+      "scribeId": "mem-5",
+      "durationMinutes": 90,
+      "toDoCompletionRate": 92,
+      "cascadingMessages": [
+        "تمامی قراردادهای جدید پاییز باید دارای فرم تحویل مرحله‌ای امضاشده باشند.",
+        "جلسه هم‌افزایی فصلی کل شرکت در تاریخ ۲۸ آذر برگزار می‌شود."
+      ],
+      "ratings": [
+        {
+          "memberId": "mem-1",
+          "score": 9
+        },
+        {
+          "memberId": "mem-2",
+          "score": 9
+        },
+        {
+          "memberId": "mem-3",
+          "score": 8
+        },
+        {
+          "memberId": "mem-4",
+          "score": 8
+        },
+        {
+          "memberId": "mem-5",
+          "score": 9
+        }
+      ],
+      "notes": "جلسه رأس ۹۰ دقیقه بسته شد و ۳ مسئله اولویت‌دار به‌طور کامل حل شدند."
+    },
+    {
+      "id": "mtg-2",
+      "date": "2026-11-02",
+      "facilitatorId": "mem-2",
+      "scribeId": "mem-5",
+      "durationMinutes": 90,
+      "toDoCompletionRate": 88,
+      "cascadingMessages": [
+        "اجرای قانون هر فرد یک عدد از هفته آینده در تمام تیم‌ها الزامی است."
+      ],
+      "ratings": [
+        {
+          "memberId": "mem-1",
+          "score": 9
+        },
+        {
+          "memberId": "mem-2",
+          "score": 8
+        },
+        {
+          "memberId": "mem-3",
+          "score": 7,
+          "reasonBelow8": "در بخش اسکورکارد بیش از زمان مجاز وارد بحث شدیم."
+        },
+        {
+          "memberId": "mem-4",
+          "score": 8
+        },
+        {
+          "memberId": "mem-5",
+          "score": 9
+        }
+      ],
+      "notes": "تذکر تسهیل‌گر برای رعایت قانون بدون بحث در ۲۰ دقیقه اول."
+    }
+  ],
+  "processes": [
+    {
+      "id": "proc-1",
+      "name": "فرآیند جذب و استخدام مبتنی بر ارزش‌ها (HR Process)",
+      "ownerId": "mem-2",
+      "summary": "انتخاب افراد مناسب برای صندلی‌های واقعی با فیلتر ارزش‌های محوری و GWC.",
+      "steps": [
+        "۱. تعریف ۵ مسئولیت صندلی در چارت پاسخگویی پیش از انتشار آگهی",
+        "۲. غربالگری تلفنی ۱۵ دقیقه‌ای با تمرکز بر ۵ ارزش محوری",
+        "۳. مصاحبه تخصصی GWC (بررسی درک، اشتیاق و ظرفیت واقعی)",
+        "۴. مصاحبه فرهنگی با ۲ عضو تیم رهبری و نمره‌دهی People Analyzer",
+        "۵. برنامه آنبوردینگ ۳۰-۶۰-۹۰ روزه همراه با چک ۵-۵-۵"
+      ],
+      "fba": {
+        "trained": true,
+        "measured": true,
+        "managedLma": true,
+        "updatedAt": "2026-11-17"
+      }
+    },
+    {
+      "id": "proc-2",
+      "name": "فرآیند بازاریابی و تولید سرنخ B2B (Marketing Process)",
+      "ownerId": "mem-3",
+      "summary": "جذب سرنخ‌های منطبق با بازار هدف V/TO با محوریت ۳ ویژگی منحصر‌به‌فرد.",
+      "steps": [
+        "۱. هدف‌گذاری لیست ۱۰۰ شرکت صنعتی منطبق با معیار The List",
+        "۲. انتشار هفتگی ۲ مطالعه موردی واقعی با اعداد بهره‌وری",
+        "۳. صلاحیت‌سنجی سرنخ‌ها ظرف حداکثر ۲ ساعت کاری",
+        "۴. رزرو جلسه دمو تخصصی ۳۰ دقیقه‌ای و ارسال خلاصه مسیر رایا"
+      ],
+      "fba": {
+        "trained": false,
+        "measured": true,
+        "managedLma": true,
+        "updatedAt": "2026-11-17"
+      },
+      "linkedMeasurableId": "sc-1"
+    },
+    {
+      "id": "proc-3",
+      "name": "فرآیند فروش راهکار سازمانی (Sales Process)",
+      "ownerId": "mem-3",
+      "summary": "تبدیل سرنخ‌های واجد شرایط به قراردادهای شفاف با ضمانت ۴۵ روزه.",
+      "steps": [
+        "۱. جلسه کشف نیاز (Discovery) و سنجش گلوگاه‌های عددی مشتری",
+        "۲. دمو زنده بر اساس سناریوی واقعی خط عملیات مشتری",
+        "۳. ارائه پروپوزال یک‌صفحه‌ای با تأکید بر گارانتی استقرار ۴۵ روزه",
+        "۴. جلسه تحویل رسمی (Handoff) با حضور مدیر عملیات پیش از امضا"
+      ],
+      "fba": {
+        "trained": true,
+        "measured": true,
+        "managedLma": true,
+        "updatedAt": "2026-11-17"
+      },
+      "linkedMeasurableId": "sc-2"
+    },
+    {
+      "id": "proc-4",
+      "name": "فرآیند استقرار ۴۵ روزه (Operations Delivery)",
+      "ownerId": "mem-4",
+      "summary": "تحویل بدون اختلال نرم‌افزار در بنگاه مشتری در چهار فاز منظم.",
+      "steps": [
+        "۱. ممیزی داده و پاکسازی مستر دیتای مشتری (هفته ۱)",
+        "۲. پیکربندی ماژول‌ها و اتصال API به ERP (هفته ۲ و ۳)",
+        "۳. آموزش عملی کاربران کلیدی و آزمون پایلوت (هفته ۴ و ۵)",
+        "۴. تحویل رسمی با فرم امضاشده مشتری و انتقال به پشتیبانی (هفته ۶)"
+      ],
+      "fba": {
+        "trained": true,
+        "measured": true,
+        "managedLma": false,
+        "updatedAt": "2026-09-25"
+      },
+      "linkedMeasurableId": "sc-4"
+    },
+    {
+      "id": "proc-5",
+      "name": "فرآیند مالی، صدور فاکتور و وصول (Finance Process)",
+      "ownerId": "mem-5",
+      "summary": "شفافیت جریان نقدینگی هفتگی و بستن حساب‌های ماهانه بدون تأخیر.",
+      "steps": [
+        "۱. صدور خودکار پیش‌فاکتور هم‌زمان با امضای قرارداد",
+        "۲. کنترل هفتگی سررسیدها و پیگیری منظم در روز سه‌شنبه",
+        "۳. به‌روزرسانی داشبورد نقدینگی ۱۳ هفته‌ای پیش از جلسه L10",
+        "۴. گزارش کامل سود و زیان (P&L) تا پنجم ماه بعد"
+      ],
+      "fba": {
+        "trained": true,
+        "measured": true,
+        "managedLma": true,
+        "updatedAt": "2026-11-17"
+      },
+      "linkedMeasurableId": "sc-3"
+    },
+    {
+      "id": "proc-6",
+      "name": "فرآیند پشتیبانی و نگهداری مشتری (Customer Success)",
+      "ownerId": "mem-6",
+      "summary": "حفظ پایداری سیستم مشتری و پیشگیری از تکرار تیکت‌های بحرانی.",
+      "steps": [
+        "۱. ثبت و اولویت‌بندی تیکت ظرف ۱۵ دقیقه (SLA)",
+        "۲. ریشه‌یابی خطاهای سطح ۱ و ثبت در پایگاه دانش",
+        "۳. تماس چکاپ فصلی و سنجش شاخص رضایت NPS"
+      ],
+      "fba": {
+        "trained": false,
+        "measured": true,
+        "managedLma": false,
+        "updatedAt": "2026-11-17"
+      },
+      "linkedMeasurableId": "sc-5"
+    }
+  ],
+  "delegateTasks": [
+    {
+      "id": "dt-1",
+      "title": "طراحی معماری چشم‌انداز محصول ۱۴۰۷ و شبکه‌سازی با شرکای استراتژیک",
+      "quadrant": 1,
+      "ownerId": "mem-1",
+      "status": "active"
+    },
+    {
+      "id": "dt-2",
+      "title": "سخنرانی ارزش‌های محوری و هدایت جلسات هم‌افزایی مشتریان کلان",
+      "quadrant": 1,
+      "ownerId": "mem-1",
+      "status": "active"
+    },
+    {
+      "id": "dt-3",
+      "title": "بازبینی هفتگی گزارش سود و زیان و تحلیل حاشیه سود پروژه‌ها",
+      "quadrant": 2,
+      "ownerId": "mem-2",
+      "status": "active"
+    },
+    {
+      "id": "dt-4",
+      "title": "تنظیم اولیه سرور و اسکریپت‌های دیتابیس مشتریان جدید",
+      "quadrant": 3,
+      "ownerId": "mem-4",
+      "delegatedToId": "mem-6",
+      "status": "delegated"
+    },
+    {
+      "id": "dt-5",
+      "title": "تأیید دستی فاکتورهای خرید جزئی و هزینه‌های اداری روزانه",
+      "quadrant": 4,
+      "ownerId": "mem-1",
+      "delegatedToId": "mem-5",
+      "status": "delegated"
+    },
+    {
+      "id": "dt-1794947282934",
+      "title": "تهیه زیرساخت های خودکارسازی تولید گزارشات",
+      "quadrant": 1,
+      "ownerId": "mem-1",
+      "status": "active"
+    },
+    {
+      "id": "dt-1794947290861",
+      "title": "تهیه داشبوردهای مدیریتی",
+      "quadrant": 1,
+      "ownerId": "mem-1",
+      "status": "active"
+    },
+    {
+      "id": "dt-1794947307254",
+      "title": "تماس های تلفنی با ذی نفعان",
+      "quadrant": 4,
+      "ownerId": "mem-1",
+      "status": "delegated",
+      "delegatedToId": "mem-1"
+    }
+  ],
+  "clarityBreaks": [
+    {
+      "id": "cb-1",
+      "date": "2026-11-11",
+      "authorId": "mem-1",
+      "prompt": "اگر امروز شرکت را از صفر تأسیس می‌کردم، کدام بخش یا خدمت را حذف می‌کردم؟",
+      "reflection": "پروژه‌های سفارشی‌سازی خارج از Focus باعث درگیر شدن تیم فنی و کند شدن استقرار ۴۵ روزه شده‌اند. باید قاطعانه به مشتریان خارج از Niche نه بگوییم.",
+      "actionItem": "تنظیم فیلتر صلاحیت سرنخ در فروش بر اساس V/TO Core Focus تا دوشنبه."
+    },
+    {
+      "id": "cb-2",
+      "date": "2026-11-04",
+      "authorId": "mem-2",
+      "prompt": "کدام گلوگاه انسانی مانع رسیدن تیم به ۸۰٪ سلامت در ۶ مؤلفه شده است؟",
+      "reflection": "تراکم کار روی صندلی عملیات نشان می‌دهد باید تفویض کارهای فنی ربع ۳ سریع‌تر انجام شود.",
+      "actionItem": "بررسی لیست Delegate & Elevate با علی رضایی در جلسه ۵-۵-۵."
+    }
+  ],
+  "samePageEntries": [
+    {
+      "id": "sp-1",
+      "date": "2026-11-05",
+      "topic": "زمان‌بندی عرضه ماژول هوش تجاری جدید در سه‌ماهه زمستان",
+      "visionaryView": "عجله داریم و باید نسخه بتا را همین ماه به ۳ مشتری نشان دهیم تا بازخورد بازار را بگیریم.",
+      "integratorView": "تیم فنی درگیر پروژه‌های استقرار ۴۵ روزه است؛ ورود محصول جدید الان تمرکز عملیات را می‌شکند.",
+      "agreedDecision": "نسخه آزمایشی صرفاً برای ۱ مشتری پایلوت در دی‌ماه برنامه‌ریزی و در راک‌های زمستان گنجانده شود.",
+      "resolved": true
+    },
+    {
+      "id": "sp-2",
+      "date": "2026-11-14",
+      "topic": "جلوگیری از ارجاع مستقیم درخواست‌های مشتریان به برنامه‌نویسان توسط ایده‌پرداز",
+      "visionaryView": "گاهی مشتری کلان تماس می‌گیرد و برای سرعت کار مستقیم به فنی پیام می‌دهم.",
+      "integratorView": "این کار اولویت‌های اسپرینت و نظم چارت پاسخگویی (قانون عدم دخالت V/I) را به هم می‌ریزد.",
+      "agreedDecision": "تمام درخواست‌های جدید ابتدا در لیست مسائل L10 یا نزد مجرّی ثبت می‌شوند.",
+      "resolved": true
+    }
+  ],
+  "eosLifeScores": [
+    {
+      "memberId": "mem-1",
+      "doingWhatYouLove": 8,
+      "peopleYouLove": 8,
+      "hugeDifference": 9,
+      "compensatedAppropriately": 8,
+      "timeForPassions": 7,
+      "notes": "با تفویض امور اجرایی به مجرّی، زمان بیشتری برای وقفه شفافیت و خانواده آزاد شده است."
+    }
+  ],
+  "checkupQuestions": [
+    {
+      "id": "oc-1",
+      "component": "vision",
+      "text": "۱. چشم‌انداز واضحی در ذهن و روی کاغذ داریم که همه آن را درک کرده و با آن هم‌سو هستند.",
+      "score": 1
+    },
+    {
+      "id": "oc-2",
+      "component": "vision",
+      "text": "۲. ارزش‌های محوری ما شفاف است و در استخدام، ارزیابی، قدردانی و اخراج استفاده می‌شود.",
+      "score": 4
+    },
+    {
+      "id": "oc-3",
+      "component": "vision",
+      "text": "۳. تمرکز محوری (Core Focus) مشخصی داریم و کارها را در راستای آن انجام می‌دهیم.",
+      "score": 2
+    },
+    {
+      "id": "oc-4",
+      "component": "vision",
+      "text": "۴. هدف ۱۰ ساله، تصویر ۳ ساله و برنامه ۱ ساله ما کاملاً مکتوب و قابل اندازه‌گیری است.",
+      "score": 1
+    },
+    {
+      "id": "oc-5",
+      "component": "people",
+      "text": "۵. همه اعضای تیم، افراد مناسب (همسو با ارزش‌های محوری) هستند.",
+      "score": 2
+    },
+    {
+      "id": "oc-6",
+      "component": "people",
+      "text": "۶. چارت پاسخگویی واضح و دقیقی داریم که ۵ مسئولیت هر صندلی در آن مشخص است.",
+      "score": 1
+    },
+    {
+      "id": "oc-7",
+      "component": "people",
+      "text": "۷. همه در صندلی مناسب خود هستند و الگوی GWC (درک، خواستن، ظرفیت) در موردشان Yes است.",
+      "score": 1
+    },
+    {
+      "id": "oc-8",
+      "component": "people",
+      "text": "۸. تیم رهبری جلسات منظم ۵-۵-۵ و بازخورد صریح (قانون ۳ ضربه) را اجرا می‌کند.",
+      "score": 1
+    },
+    {
+      "id": "oc-9",
+      "component": "data",
+      "text": "۹. کارت امتیاز هفتگی با ۵ تا ۱۵ شاخص پیش‌رو داریم که هر هفته بدون وقفه پر می‌شود.",
+      "score": 1
+    },
+    {
+      "id": "oc-10",
+      "component": "data",
+      "text": "۱۰. هر فرد در سازمان حداقل یک عدد مشخص هفتگی برای سنجش عملکرد خود دارد.",
+      "score": 1
+    },
+    {
+      "id": "oc-11",
+      "component": "issues",
+      "text": "۱۱. فرهنگ ورود به خطر (Enter the Danger) داریم و مسائل بدون پنهان‌کاری در لیست ثبت می‌شوند.",
+      "score": 1
+    },
+    {
+      "id": "oc-12",
+      "component": "issues",
+      "text": "۱۲. تیم رهبری به جای بحث بی‌نتیجه، با متد ۳ گامه IDS مسائل را ریشه‌ای حل می‌کند.",
+      "score": 1
+    },
+    {
+      "id": "oc-13",
+      "component": "issues",
+      "text": "۱۳. لیست مسائل بلندمدت V/TO از لیست مسائل هفتگی L10 تفکیک شده است.",
+      "score": 1
+    },
+    {
+      "id": "oc-14",
+      "component": "process",
+      "text": "۱۴. فرآیندهای اصلی شرکت (۲۰٪ مراحل که ۸۰٪ نتیجه را می‌سازند) مستندسازی و ساده شده‌اند.",
+      "score": 1
+    },
+    {
+      "id": "oc-15",
+      "component": "process",
+      "text": "۱۵. همه کارکنان آموزش دیده‌اند و تمام فرآیندهای کلیدی توسط همگان اجرا می‌شود (FBA).",
+      "score": 1
+    },
+    {
+      "id": "oc-16",
+      "component": "process",
+      "text": "۱۶. فرآیندها حداقل سالی یک‌بار بازبینی و از پیچیدگی‌های زائد پاکسازی می‌شوند.",
+      "score": 1
+    },
+    {
+      "id": "oc-17",
+      "component": "traction",
+      "text": "۱۷. همه افراد بین ۳ تا ۷ اولویت ۹۰ روزه (Rocks) مشخص دارند و بالای ۸۰٪ را به موقع تمام می‌کنند.",
+      "score": 1
+    },
+    {
+      "id": "oc-18",
+      "component": "traction",
+      "text": "۱۸. جلسات هفتگی سطح ۱۰ (L10) رأس ساعت شروع و دقیقاً در ۹۰ دقیقه با نمره بالای ۸ تمام می‌شود.",
+      "score": 1
+    },
+    {
+      "id": "oc-19",
+      "component": "traction",
+      "text": "۱۹. اقدامات ۷ روزه (To-Do) با نرخ انجام ۹۰٪ به بالا در هفته بعد بررسی می‌شوند.",
+      "score": 1
+    },
+    {
+      "id": "oc-20",
+      "component": "traction",
+      "text": "۲۰. ارزیابی‌های فصلی، سالانه و جلسات Same Page بین ایده‌پرداز و مجرّی به‌صورت منظم برقرار است.",
+      "score": 1
+    }
+  ],
+  "lmaAudit": [
+    {
+      "id": "lma-1",
+      "category": "leadership",
+      "title": "ساده‌سازی (Simplifying)",
+      "description": "حذف پیچیدگی‌های زاید از فرآیندها، گزارش‌ها و ارتباطات تیمی",
+      "rating": 2
+    },
+    {
+      "id": "lma-2",
+      "category": "leadership",
+      "title": "تفویض کردن (Delegating)",
+      "description": "واگذاری مداوم کارهای ربع ۳ و ۴ به صندلی‌های مناسب با Delegate & Elevate",
+      "rating": 3
+    },
+    {
+      "id": "lma-3",
+      "category": "leadership",
+      "title": "پیش‌بینی کردن (Predicting)",
+      "description": "دید بلندمدت در V/TO و تشخیص زودهنگام گلوگاه‌ها در اسکورکارد",
+      "rating": 4
+    },
+    {
+      "id": "lma-4",
+      "category": "leadership",
+      "title": "سیستمی کردن (Systemizing)",
+      "description": "تبدیل کارهای پراکنده به فرآیندهای قابل تکرار و استاندارد",
+      "rating": 4
+    },
+    {
+      "id": "lma-5",
+      "category": "leadership",
+      "title": "ساختاردهی (Structuring)",
+      "description": "بازبینی مستمر چارت پاسخگویی و پرهیز از صندلی‌های مبهم",
+      "rating": 5
+    },
+    {
+      "id": "lma-6",
+      "category": "management",
+      "title": "شفاف‌سازی انتظارات (Keep Expectations Clear)",
+      "description": "بیان دقیق V/TO، ۵ مسئولیت صندلی و عدد هفتگی برای هر فرد",
+      "rating": 5
+    },
+    {
+      "id": "lma-7",
+      "category": "management",
+      "title": "ارتباط مؤثر (Communicate Effectively)",
+      "description": "اطمینان از درک دوطرفه و بازخورد ۳۶۰ درجه بدون سوتفاهم",
+      "rating": 4
+    },
+    {
+      "id": "lma-8",
+      "category": "management",
+      "title": "حفظ نبض سازمان (Keep a Pulse)",
+      "description": "اجرای منظم و بدون انحراف جلسات L10 و گفتگوهای فصلی ۵-۵-۵",
+      "rating": 5
+    },
+    {
+      "id": "lma-9",
+      "category": "management",
+      "title": "پاداش و قدردانی (Reward and Recognize)",
+      "description": "تقدیر عمومی از رفتارهای منطبق با ارزش‌های محوری در جمع",
+      "rating": 4
+    },
+    {
+      "id": "lma-10",
+      "category": "management",
+      "title": "انجام کار درست (Do the Right Thing)",
+      "description": "شجاعت اجرای قانون ۳ ضربه در مواجهه با افراد یا صندلی‌های اشتباه",
+      "rating": 3
+    }
+  ]
+}

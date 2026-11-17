@@ -1,0 +1,6 @@
+{
+  "name": "سامانه جامع مدیریت EOS | EOS Operating System",
+  "description": "پلتفرم یکپارچه سیستم عامل کارآفرینی (EOS) شامل V/TO، چارت پاسخگویی، ارزیابی افراد (GWC)، کارت امتیاز ۱۳ هفته‌ای، حل مسئله IDS، مستندسازی فرآیندها، راک‌های ۹۰ روزه، جلسات سطح ۱۰ و ابزارهای رهبری.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
